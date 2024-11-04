@@ -1,0 +1,12 @@
+{
+	"compilerOptions": {
+		"strict": true,
+		"forceConsistentCasingInFileNames": true,
+		"jsx": "react-jsx",
+		"esModuleInterop": true,
+		"baseUrl": "./resources/ts/",
+		"paths": {
+			"@/*": ["*"]
+		}
+	}
+}

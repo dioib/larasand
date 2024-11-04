@@ -1,0 +1,15 @@
+{
+    "php-cs-fixer.executablePath": "${workspaceFolder}/vendor/bin/php-cs-fixer", // php-cs-fixerのパス
+    "[typescript]": {
+        "editor.defaultFormatter": "biomejs.biome",
+        "editor.formatOnSave": true
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "biomejs.biome",
+        "editor.formatOnSave": true
+    },
+    "[php]": {
+        "editor.defaultFormatter": "junstyle.php-cs-fixer",
+        "editor.formatOnSave": true
+    }
+}
